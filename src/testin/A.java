@@ -8,7 +8,7 @@ public class A {
 
 class B extends A{
 	@Override
-	public double f(){
+	public int f(){
 		return 3;
 	}
 }
