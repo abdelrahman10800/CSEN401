@@ -9,7 +9,7 @@ public class A {
 class B extends A{
 	@Override
 	public int f(){
-		return 18;
+		return 8;
 	}
 }
 class test{
